@@ -14,6 +14,13 @@
 
 ---
 
+# BACKEND
+## Spring Boot 환경
+* **Spring Boot 버전:** 4.0.0
+* **Java 버전:** 21
+* **Build Tool:** Gradle / Groovy DSL
+
+
 ## 프로젝트 구조
 
 ```
